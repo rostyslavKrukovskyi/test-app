@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'interview-test-app';
   // test change 1 after initial commit on Main branch
+
+
+  // initial commit on branch_1
 }
