@@ -11,4 +11,6 @@ export class AppComponent {
 
 
   // initial commit on branch_1
+
+  // test change 1 after initial commit on branch_1
 }
